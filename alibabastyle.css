@@ -1,0 +1,96 @@
+.head11{
+    color: #eb2f06;
+}
+.navbar{
+    background-color: #FFFACD !important;
+    color: black !important;
+}
+
+.nav-link{
+    color: rgb(12, 5, 5) !important;
+    font-weight: bold;
+}
+
+.fa-shopping-cart{
+    font-size: 28px !important;
+    color: rgb(12, 5, 5) !important;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.fa-user{
+    font-size: 28px !important;
+    color: rgb(12, 5, 5) !important;
+    margin-left: 8x;
+    margin-right: 8px;
+}
+
+
+/* .nav-link{
+    color: white !important;
+    font-weight: bold;
+} */
+
+
+.fa-truck,.fa-medkit,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 12px;
+    color: #eb2f06;
+}
+.card1, .card2,.card3{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: 2px 4px 6px gray;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+h3{
+    color: #eb2f06;
+}
+.mainCard{
+    margin: 40px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.nav-link:hover,.nav-item:hover{
+    color: #eb2f06 !important;
+    /* //background-color: rgb(55, 194, 164); */
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: #eb2f06;
+    margin: 25px;
+    /* background-color: antiquewhite; */
+    /* border: 4px solid rgb(19, 214, 204); */
+    /* border-radius: 90px; */
+   
+}
+.heading > h1{
+    text-shadow: 2px 2px 4px black;
+}
+.card-text{
+    font-weight: bold;
+}
+
+
+
+/* Product page html css code */
+
+.col{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+
+  
